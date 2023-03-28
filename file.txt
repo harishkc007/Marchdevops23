@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 this is my first developmemt project
 
 
 this is second line
 
 this is the third line
+=======
+this is my first developmemt project
+>>>>>>> parent of 67f0aa0 (added second line)
