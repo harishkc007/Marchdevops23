@@ -1,1 +1,3 @@
 hello this file2
+
+hello this newline in the file2
